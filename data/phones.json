@@ -1,0 +1,702 @@
+[
+    {
+        "id": "pixel_8a",
+        "name": "Google Pixel 8a",
+        "brand": "Google",
+        "price": 49999,
+        "specs": {
+            "camera": "64MP Main, 13MP Ultrawide",
+            "battery": "4492 mAh",
+            "display": "6.1 inch OLED, 120Hz",
+            "processor": "Google Tensor G3",
+            "storage": "128GB/256GB"
+        },
+        "description": "The AI-first phone with an amazing camera and helpful features."
+    },
+    {
+        "id": "pixel_8",
+        "name": "Google Pixel 8",
+        "brand": "Google",
+        "price": 75999,
+        "specs": {
+            "camera": "50MP Main, 12MP Ultrawide",
+            "battery": "4575 mAh",
+            "display": "6.2 inch Actua OLED, 120Hz",
+            "processor": "Google Tensor G3",
+            "storage": "128GB/256GB"
+        },
+        "description": "Advanced AI features and best-in-class camera in a compact size."
+    },
+    {
+        "id": "pixel_8_pro",
+        "name": "Google Pixel 8 Pro",
+        "brand": "Google",
+        "price": 106999,
+        "specs": {
+            "camera": "50MP Main, 48MP Ultrawide, 48MP Telephoto",
+            "battery": "5050 mAh",
+            "display": "6.7 inch Super Actua OLED, 120Hz",
+            "processor": "Google Tensor G3",
+            "storage": "128GB/256GB/512GB"
+        },
+        "description": "Google's pro-level camera and AI performance."
+    },
+    {
+        "id": "pixel_7a",
+        "name": "Google Pixel 7a",
+        "brand": "Google",
+        "price": 37999,
+        "specs": {
+            "camera": "64MP Main, 13MP Ultrawide",
+            "battery": "4385 mAh",
+            "display": "6.1 inch OLED, 90Hz",
+            "processor": "Google Tensor G2",
+            "storage": "128GB"
+        },
+        "description": "Great value Pixel with excellent camera capabilities."
+    },
+    {
+        "id": "oneplus_12r",
+        "name": "OnePlus 12R",
+        "brand": "OnePlus",
+        "price": 39999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide, 2MP Macro",
+            "battery": "5500 mAh",
+            "display": "6.78 inch AMOLED, 120Hz",
+            "processor": "Snapdragon 8 Gen 2",
+            "storage": "128GB/256GB"
+        },
+        "description": "Performance flagship with massive battery and fast charging."
+    },
+    {
+        "id": "oneplus_12",
+        "name": "OnePlus 12",
+        "brand": "OnePlus",
+        "price": 64999,
+        "specs": {
+            "camera": "50MP Main, 48MP Ultrawide, 64MP Telephoto",
+            "battery": "5400 mAh",
+            "display": "6.82 inch AMOLED, 120Hz",
+            "processor": "Snapdragon 8 Gen 3",
+            "storage": "256GB/512GB"
+        },
+        "description": "The complete flagship experience with Hasselblad camera."
+    },
+    {
+        "id": "oneplus_nord_ce4",
+        "name": "OnePlus Nord CE4",
+        "brand": "OnePlus",
+        "price": 24999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide",
+            "battery": "5500 mAh",
+            "display": "6.7 inch AMOLED, 120Hz",
+            "processor": "Snapdragon 7 Gen 3",
+            "storage": "128GB/256GB"
+        },
+        "description": "Fast charging and great battery life for the mid-range."
+    },
+    {
+        "id": "oneplus_open",
+        "name": "OnePlus Open",
+        "brand": "OnePlus",
+        "price": 139999,
+        "specs": {
+            "camera": "48MP Main, 48MP Ultrawide, 64MP Telephoto",
+            "battery": "4805 mAh",
+            "display": "7.82 inch Foldable AMOLED, 120Hz",
+            "processor": "Snapdragon 8 Gen 2",
+            "storage": "512GB"
+        },
+        "description": "Premium foldable experience with top-tier cameras."
+    },
+    {
+        "id": "samsung_s23_fe",
+        "name": "Samsung Galaxy S23 FE",
+        "brand": "Samsung",
+        "price": 34999,
+        "specs": {
+            "camera": "50MP Main, 12MP Ultrawide, 8MP Telephoto",
+            "battery": "4500 mAh",
+            "display": "6.4 inch Dynamic AMOLED 2X, 120Hz",
+            "processor": "Exynos 2200",
+            "storage": "128GB/256GB"
+        },
+        "description": "Fan Edition with pro-grade camera and premium design."
+    },
+    {
+        "id": "samsung_s24",
+        "name": "Samsung Galaxy S24",
+        "brand": "Samsung",
+        "price": 79999,
+        "specs": {
+            "camera": "50MP Main, 12MP Ultrawide, 10MP Telephoto",
+            "battery": "4000 mAh",
+            "display": "6.2 inch Dynamic LTPO AMOLED 2X, 120Hz",
+            "processor": "Exynos 2400",
+            "storage": "256GB/512GB"
+        },
+        "description": "Compact flagship with Galaxy AI features."
+    },
+    {
+        "id": "samsung_s24_ultra",
+        "name": "Samsung Galaxy S24 Ultra",
+        "brand": "Samsung",
+        "price": 129999,
+        "specs": {
+            "camera": "200MP Main, 12MP Ultrawide, 50MP+10MP Telephoto",
+            "battery": "5000 mAh",
+            "display": "6.8 inch Dynamic LTPO AMOLED 2X, 120Hz",
+            "processor": "Snapdragon 8 Gen 3 for Galaxy",
+            "storage": "256GB/512GB/1TB"
+        },
+        "description": "The ultimate Galaxy experience with S Pen and Titanium frame."
+    },
+    {
+        "id": "samsung_a55",
+        "name": "Samsung Galaxy A55",
+        "brand": "Samsung",
+        "price": 39999,
+        "specs": {
+            "camera": "50MP Main, 12MP Ultrawide, 5MP Macro",
+            "battery": "5000 mAh",
+            "display": "6.6 inch Super AMOLED, 120Hz",
+            "processor": "Exynos 1480",
+            "storage": "128GB/256GB"
+        },
+        "description": "Premium design and security in the A series."
+    },
+    {
+        "id": "samsung_a35",
+        "name": "Samsung Galaxy A35",
+        "brand": "Samsung",
+        "price": 30999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide, 5MP Macro",
+            "battery": "5000 mAh",
+            "display": "6.6 inch Super AMOLED, 120Hz",
+            "processor": "Exynos 1380",
+            "storage": "128GB/256GB"
+        },
+        "description": "Awesome display and battery life."
+    },
+    {
+        "id": "samsung_m34",
+        "name": "Samsung Galaxy M34",
+        "brand": "Samsung",
+        "price": 16999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide",
+            "battery": "6000 mAh",
+            "display": "6.5 inch Super AMOLED, 120Hz",
+            "processor": "Exynos 1280",
+            "storage": "128GB"
+        },
+        "description": "Monster battery and Super AMOLED display."
+    },
+    {
+        "id": "nothing_phone_2a",
+        "name": "Nothing Phone (2a)",
+        "brand": "Nothing",
+        "price": 23999,
+        "specs": {
+            "camera": "50MP Main, 50MP Ultrawide",
+            "battery": "5000 mAh",
+            "display": "6.7 inch AMOLED, 120Hz",
+            "processor": "Dimensity 7200 Pro",
+            "storage": "128GB/256GB"
+        },
+        "description": "Unique design with Glyph Interface and clean software."
+    },
+    {
+        "id": "nothing_phone_2",
+        "name": "Nothing Phone (2)",
+        "brand": "Nothing",
+        "price": 36999,
+        "specs": {
+            "camera": "50MP Main, 50MP Ultrawide",
+            "battery": "4700 mAh",
+            "display": "6.7 inch LTPO OLED, 120Hz",
+            "processor": "Snapdragon 8+ Gen 1",
+            "storage": "128GB/256GB/512GB"
+        },
+        "description": "Premium build with enhanced Glyph Interface."
+    },
+    {
+        "id": "iphone_15",
+        "name": "Apple iPhone 15",
+        "brand": "Apple",
+        "price": 70999,
+        "specs": {
+            "camera": "48MP Main, 12MP Ultrawide",
+            "battery": "3349 mAh",
+            "display": "6.1 inch Super Retina XDR",
+            "processor": "A16 Bionic",
+            "storage": "128GB/256GB/512GB"
+        },
+        "description": "Dynamic Island, 48MP camera, and USB-C."
+    },
+    {
+        "id": "iphone_15_plus",
+        "name": "Apple iPhone 15 Plus",
+        "brand": "Apple",
+        "price": 80999,
+        "specs": {
+            "camera": "48MP Main, 12MP Ultrawide",
+            "battery": "4383 mAh",
+            "display": "6.7 inch Super Retina XDR",
+            "processor": "A16 Bionic",
+            "storage": "128GB/256GB/512GB"
+        },
+        "description": "Big screen and all-day battery life."
+    },
+    {
+        "id": "iphone_15_pro",
+        "name": "Apple iPhone 15 Pro",
+        "brand": "Apple",
+        "price": 129999,
+        "specs": {
+            "camera": "48MP Main, 12MP Ultrawide, 12MP Telephoto",
+            "battery": "3274 mAh",
+            "display": "6.1 inch Super Retina XDR ProMotion",
+            "processor": "A17 Pro",
+            "storage": "128GB/256GB/512GB/1TB"
+        },
+        "description": "Titanium design and next-level gaming performance."
+    },
+    {
+        "id": "iphone_15_pro_max",
+        "name": "Apple iPhone 15 Pro Max",
+        "brand": "Apple",
+        "price": 159999,
+        "specs": {
+            "camera": "48MP Main, 12MP Ultrawide, 12MP Telephoto (5x)",
+            "battery": "4422 mAh",
+            "display": "6.7 inch Super Retina XDR ProMotion",
+            "processor": "A17 Pro",
+            "storage": "256GB/512GB/1TB"
+        },
+        "description": "The ultimate iPhone with 5x optical zoom."
+    },
+    {
+        "id": "iphone_14",
+        "name": "Apple iPhone 14",
+        "brand": "Apple",
+        "price": 59999,
+        "specs": {
+            "camera": "12MP Main, 12MP Ultrawide",
+            "battery": "3279 mAh",
+            "display": "6.1 inch Super Retina XDR",
+            "processor": "A15 Bionic",
+            "storage": "128GB/256GB/512GB"
+        },
+        "description": "Reliable performance and great dual-camera system."
+    },
+    {
+        "id": "iphone_13",
+        "name": "Apple iPhone 13",
+        "brand": "Apple",
+        "price": 49999,
+        "specs": {
+            "camera": "12MP Main, 12MP Ultrawide",
+            "battery": "3240 mAh",
+            "display": "6.1 inch Super Retina XDR",
+            "processor": "A15 Bionic",
+            "storage": "128GB/256GB/512GB"
+        },
+        "description": "Still a great value entry into the Apple ecosystem."
+    },
+    {
+        "id": "redmi_note_13_pro_plus",
+        "name": "Redmi Note 13 Pro+",
+        "brand": "Xiaomi",
+        "price": 29999,
+        "specs": {
+            "camera": "200MP Main, 8MP Ultrawide, 2MP Macro",
+            "battery": "5000 mAh",
+            "display": "6.67 inch AMOLED, 120Hz",
+            "processor": "Dimensity 7200 Ultra",
+            "storage": "256GB/512GB"
+        },
+        "description": "Super-clear 200MP camera and 120W HyperCharge."
+    },
+    {
+        "id": "redmi_note_13_pro",
+        "name": "Redmi Note 13 Pro",
+        "brand": "Xiaomi",
+        "price": 24999,
+        "specs": {
+            "camera": "200MP Main, 8MP Ultrawide, 2MP Macro",
+            "battery": "5100 mAh",
+            "display": "6.67 inch AMOLED, 120Hz",
+            "processor": "Snapdragon 7s Gen 2",
+            "storage": "128GB/256GB"
+        },
+        "description": "200MP camera for the mid-range."
+    },
+    {
+        "id": "xiaomi_14",
+        "name": "Xiaomi 14",
+        "brand": "Xiaomi",
+        "price": 69999,
+        "specs": {
+            "camera": "50MP Main, 50MP Ultrawide, 50MP Telephoto",
+            "battery": "4610 mAh",
+            "display": "6.36 inch LTPO OLED, 120Hz",
+            "processor": "Snapdragon 8 Gen 3",
+            "storage": "512GB"
+        },
+        "description": "Compact flagship with Leica optics."
+    },
+    {
+        "id": "xiaomi_14_ultra",
+        "name": "Xiaomi 14 Ultra",
+        "brand": "Xiaomi",
+        "price": 99999,
+        "specs": {
+            "camera": "50MP Quad Camera System (Leica)",
+            "battery": "5000 mAh",
+            "display": "6.73 inch LTPO AMOLED, 120Hz",
+            "processor": "Snapdragon 8 Gen 3",
+            "storage": "512GB"
+        },
+        "description": "Photography powerhouse with 1-inch sensor."
+    },
+    {
+        "id": "realme_12_pro_plus",
+        "name": "Realme 12 Pro+",
+        "brand": "Realme",
+        "price": 29999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide, 64MP Periscope",
+            "battery": "5000 mAh",
+            "display": "6.7 inch AMOLED, 120Hz",
+            "processor": "Snapdragon 7s Gen 2",
+            "storage": "128GB/256GB"
+        },
+        "description": "Periscope portrait camera in the mid-range."
+    },
+    {
+        "id": "realme_gt_6t",
+        "name": "Realme GT 6T",
+        "brand": "Realme",
+        "price": 30999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide",
+            "battery": "5500 mAh",
+            "display": "6.78 inch LTPO AMOLED, 120Hz",
+            "processor": "Snapdragon 7+ Gen 3",
+            "storage": "128GB/256GB/512GB"
+        },
+        "description": "Top performer with massive battery."
+    },
+    {
+        "id": "realme_narzo_70_pro",
+        "name": "Realme Narzo 70 Pro",
+        "brand": "Realme",
+        "price": 19999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide",
+            "battery": "5000 mAh",
+            "display": "6.67 inch AMOLED, 120Hz",
+            "processor": "Dimensity 7050",
+            "storage": "128GB/256GB"
+        },
+        "description": "Glass design and creative air gestures."
+    },
+    {
+        "id": "poco_x6_pro",
+        "name": "POCO X6 Pro",
+        "brand": "POCO",
+        "price": 25999,
+        "specs": {
+            "camera": "64MP Main, 8MP Ultrawide, 2MP Macro",
+            "battery": "5000 mAh",
+            "display": "6.67 inch AMOLED, 120Hz",
+            "processor": "Dimensity 8300 Ultra",
+            "storage": "256GB/512GB"
+        },
+        "description": "Segment-leading performance for gamers."
+    },
+    {
+        "id": "poco_f6",
+        "name": "POCO F6",
+        "brand": "POCO",
+        "price": 29999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide",
+            "battery": "5000 mAh",
+            "display": "6.67 inch AMOLED, 120Hz",
+            "processor": "Snapdragon 8s Gen 3",
+            "storage": "256GB/512GB"
+        },
+        "description": "Flagship killer performance."
+    },
+    {
+        "id": "moto_edge_50_pro",
+        "name": "Motorola Edge 50 Pro",
+        "brand": "Motorola",
+        "price": 31999,
+        "specs": {
+            "camera": "50MP Main, 13MP Ultrawide, 10MP Telephoto",
+            "battery": "4500 mAh",
+            "display": "6.7 inch pOLED, 144Hz",
+            "processor": "Snapdragon 7 Gen 3",
+            "storage": "256GB"
+        },
+        "description": "Pantone validated colours and AI camera."
+    },
+    {
+        "id": "moto_edge_50_fusion",
+        "name": "Motorola Edge 50 Fusion",
+        "brand": "Motorola",
+        "price": 22999,
+        "specs": {
+            "camera": "50MP Main, 13MP Ultrawide",
+            "battery": "5000 mAh",
+            "display": "6.7 inch pOLED, 144Hz",
+            "processor": "Snapdragon 7s Gen 2",
+            "storage": "128GB/256GB"
+        },
+        "description": "Elegant design with IP68 rating."
+    },
+    {
+        "id": "moto_g84",
+        "name": "Motorola G84",
+        "brand": "Motorola",
+        "price": 18999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide",
+            "battery": "5000 mAh",
+            "display": "6.55 inch pOLED, 120Hz",
+            "processor": "Snapdragon 695",
+            "storage": "256GB"
+        },
+        "description": "Vibrant display and vegan leather finish."
+    },
+    {
+        "id": "vivo_v30",
+        "name": "Vivo V30",
+        "brand": "Vivo",
+        "price": 33999,
+        "specs": {
+            "camera": "50MP Main, 50MP Ultrawide",
+            "battery": "5000 mAh",
+            "display": "6.78 inch AMOLED, 120Hz",
+            "processor": "Snapdragon 7 Gen 3",
+            "storage": "128GB/256GB"
+        },
+        "description": "Studio-quality portraits with Aura Light."
+    },
+    {
+        "id": "vivo_v30_pro",
+        "name": "Vivo V30 Pro",
+        "brand": "Vivo",
+        "price": 41999,
+        "specs": {
+            "camera": "50MP Main, 50MP Ultrawide, 50MP Telephoto (Zeiss)",
+            "battery": "5000 mAh",
+            "display": "6.78 inch AMOLED, 120Hz",
+            "processor": "Dimensity 8200",
+            "storage": "256GB/512GB"
+        },
+        "description": "Zeiss optics for professional portraits."
+    },
+    {
+        "id": "vivo_x100",
+        "name": "Vivo X100",
+        "brand": "Vivo",
+        "price": 63999,
+        "specs": {
+            "camera": "50MP Main, 50MP Ultrawide, 64MP Telephoto (Zeiss)",
+            "battery": "5000 mAh",
+            "display": "6.78 inch LTPO AMOLED, 120Hz",
+            "processor": "Dimensity 9300",
+            "storage": "256GB/512GB"
+        },
+        "description": "Flagship photography with Zeiss T* coating."
+    },
+    {
+        "id": "oppo_reno_11",
+        "name": "Oppo Reno 11",
+        "brand": "Oppo",
+        "price": 29999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide, 32MP Telephoto",
+            "battery": "5000 mAh",
+            "display": "6.7 inch AMOLED, 120Hz",
+            "processor": "Dimensity 7050",
+            "storage": "128GB/256GB"
+        },
+        "description": "Portrait expert with telephoto lens."
+    },
+    {
+        "id": "oppo_reno_11_pro",
+        "name": "Oppo Reno 11 Pro",
+        "brand": "Oppo",
+        "price": 39999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide, 32MP Telephoto",
+            "battery": "4600 mAh",
+            "display": "6.7 inch AMOLED, 120Hz",
+            "processor": "Dimensity 8200",
+            "storage": "256GB"
+        },
+        "description": "Stylish design and professional portraits."
+    },
+    {
+        "id": "iqoo_12",
+        "name": "iQOO 12",
+        "brand": "iQOO",
+        "price": 52999,
+        "specs": {
+            "camera": "50MP Main, 50MP Ultrawide, 64MP Telephoto",
+            "battery": "5000 mAh",
+            "display": "6.78 inch LTPO AMOLED, 144Hz",
+            "processor": "Snapdragon 8 Gen 3",
+            "storage": "256GB/512GB"
+        },
+        "description": "Ultimate performance flagship for gaming."
+    },
+    {
+        "id": "iqoo_neo_9_pro",
+        "name": "iQOO Neo 9 Pro",
+        "brand": "iQOO",
+        "price": 35999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide",
+            "battery": "5160 mAh",
+            "display": "6.78 inch LTPO AMOLED, 144Hz",
+            "processor": "Snapdragon 8 Gen 2",
+            "storage": "128GB/256GB"
+        },
+        "description": "Dual-chip power for superior gaming."
+    },
+    {
+        "id": "iqoo_z9",
+        "name": "iQOO Z9",
+        "brand": "iQOO",
+        "price": 19999,
+        "specs": {
+            "camera": "50MP Main, 2MP Depth",
+            "battery": "5000 mAh",
+            "display": "6.67 inch AMOLED, 120Hz",
+            "processor": "Dimensity 7200",
+            "storage": "128GB/256GB"
+        },
+        "description": "Fastest phone in the segment."
+    },
+    {
+        "id": "cmf_phone_1",
+        "name": "CMF Phone 1",
+        "brand": "CMF by Nothing",
+        "price": 15999,
+        "specs": {
+            "camera": "50MP Main, 2MP Depth",
+            "battery": "5000 mAh",
+            "display": "6.67 inch Super AMOLED, 120Hz",
+            "processor": "Dimensity 7300",
+            "storage": "128GB"
+        },
+        "description": "Customizable design and great value."
+    },
+    {
+        "id": "lava_agni_2",
+        "name": "Lava Agni 2",
+        "brand": "Lava",
+        "price": 19999,
+        "specs": {
+            "camera": "50MP Main, 8MP Ultrawide",
+            "battery": "4700 mAh",
+            "display": "6.78 inch Curved AMOLED, 120Hz",
+            "processor": "Dimensity 7050",
+            "storage": "256GB"
+        },
+        "description": "Curved display and clean Android experience."
+    },
+    {
+        "id": "tecno_camon_30",
+        "name": "Tecno Camon 30",
+        "brand": "Tecno",
+        "price": 22999,
+        "specs": {
+            "camera": "50MP Main, 2MP Depth",
+            "battery": "5000 mAh",
+            "display": "6.78 inch AMOLED, 120Hz",
+            "processor": "Helio G99 Ultimate",
+            "storage": "256GB"
+        },
+        "description": "Stylish camera-centric phone."
+    },
+    {
+        "id": "infinix_gt_20_pro",
+        "name": "Infinix GT 20 Pro",
+        "brand": "Infinix",
+        "price": 24999,
+        "specs": {
+            "camera": "108MP Main, 2MP Macro",
+            "battery": "5000 mAh",
+            "display": "6.78 inch AMOLED, 144Hz",
+            "processor": "Dimensity 8200 Ultimate",
+            "storage": "256GB"
+        },
+        "description": "Cyber-mecha design for gamers."
+    },
+    {
+        "id": "honor_x9b",
+        "name": "Honor X9b",
+        "brand": "Honor",
+        "price": 25999,
+        "specs": {
+            "camera": "108MP Main, 5MP Ultrawide",
+            "battery": "5800 mAh",
+            "display": "6.78 inch AMOLED, 120Hz",
+            "processor": "Snapdragon 6 Gen 1",
+            "storage": "256GB"
+        },
+        "description": "Ultra-bounce anti-drop display."
+    },
+    {
+        "id": "samsung_z_flip_5",
+        "name": "Samsung Galaxy Z Flip 5",
+        "brand": "Samsung",
+        "price": 99999,
+        "specs": {
+            "camera": "12MP Main, 12MP Ultrawide",
+            "battery": "3700 mAh",
+            "display": "6.7 inch Foldable Dynamic AMOLED 2X",
+            "processor": "Snapdragon 8 Gen 2 for Galaxy",
+            "storage": "256GB/512GB"
+        },
+        "description": "Pocket-sized foldable with large cover screen."
+    },
+    {
+        "id": "samsung_z_fold_5",
+        "name": "Samsung Galaxy Z Fold 5",
+        "brand": "Samsung",
+        "price": 154999,
+        "specs": {
+            "camera": "50MP Main, 12MP Ultrawide, 10MP Telephoto",
+            "battery": "4400 mAh",
+            "display": "7.6 inch Foldable Dynamic AMOLED 2X",
+            "processor": "Snapdragon 8 Gen 2 for Galaxy",
+            "storage": "256GB/512GB/1TB"
+        },
+        "description": "PC-like productivity in your pocket."
+    },
+    {
+        "id": "moto_razr_40_ultra",
+        "name": "Motorola Razr 40 Ultra",
+        "brand": "Motorola",
+        "price": 69999,
+        "specs": {
+            "camera": "12MP Main, 13MP Ultrawide",
+            "battery": "3800 mAh",
+            "display": "6.9 inch Foldable pOLED, 165Hz",
+            "processor": "Snapdragon 8+ Gen 1",
+            "storage": "256GB"
+        },
+        "description": "Largest external display on a flip phone."
+    }
+]
