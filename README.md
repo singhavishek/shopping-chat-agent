@@ -30,7 +30,7 @@ An AI-powered shopping assistant for mobile phones, built with **Streamlit** and
    ```
 
 3. **Configure API Key**
-   - Open `.env` file.
+   - Create a `.env` file from `.env.example`
    - Add your Groq API key:
      ```
      GROQ_API_KEY=your_api_key_here
